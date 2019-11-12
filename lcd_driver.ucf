@@ -1,0 +1,28 @@
+
+
+NET "DB[0]" LOC = B3;
+NET "DB[1]" LOC = A5;
+NET "DB[2]" LOC = C6;
+NET "DB[3]" LOC = A8;
+NET "DB[4]" LOC = C9;
+NET "DB[5]" LOC = A11;
+NET "DB[6]" LOC = B13;
+NET "DB[7]" LOC = B15;
+NET "EN" LOC = A2;
+NET "RS" LOC = D13;
+NET "RW" LOC = E2;
+NET "clk" LOC = E7;
+NET "rst" LOC = K1;
+
+# PlanAhead Generated physical constraints 
+
+NET "boton" LOC = J4;
+NET "bot_clear" LOC = K3;
+NET "sw[0]" LOC = M8;
+NET "sw[1]" LOC = N6;
+NET "sw[2]" LOC = N4;
+NET "sw[3]" LOC = P9;
+NET "sw[4]" LOC = R7;
+NET "sw[5]" LOC = P5;
+NET "sw[6]" LOC = N2;
+NET "sw[7]" LOC = L1;
